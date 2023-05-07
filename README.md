@@ -14,6 +14,12 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
+- Mobile version 📱
+
+![](./screenshot.jpg)
+
+- Desktop version 🖥️
+
 ![](./screenshot.jpg)
 
 ### Links
